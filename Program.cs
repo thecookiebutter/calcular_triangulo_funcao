@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Globalization;
-/*
-ola
-*/
+
 namespace Course
 {
     public class Program
@@ -27,7 +25,7 @@ namespace Course
                 Console.WriteLine("Maior area: Y");
             }
         }
-        //ola
+        
 
         public static double[] LerMedidasTriangulo(string nomeTriangulo)
         {

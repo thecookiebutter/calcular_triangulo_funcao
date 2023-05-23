@@ -1,0 +1,1 @@
+# calcular_triangulo_funcao
